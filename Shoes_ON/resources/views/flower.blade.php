@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     @vite('resources/css/app.css')
-    <title>Flowers</title>
+    <title>Shoes</title>
     <script src="https://unpkg.com/heroicons@1.0.6/dist/heroicons.min.js"></script>
 </head>
 <style>
